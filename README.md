@@ -1,1 +1,2 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=joekendal&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Overview](https://raw.githubusercontent.com/joekendal/github-stats/master/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/joekendal/github-stats/master/generated/languages.svg)
