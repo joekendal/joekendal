@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Joe</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joekendal&label=Profile%20views&color=0e75b6&style=flat" alt="joekendal" /> </p>
 
 ![Overview](https://raw.githubusercontent.com/joekendal/github-stats/master/generated/overview.svg)
