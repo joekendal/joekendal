@@ -1,6 +1,6 @@
 <div>
   <p>
-    <h2>stay at 127.0.0.1 and wear a 255.255.255.0</h2>
+    <h2>stay at 127.0.0.1, wear a 255.255.255.0</h2>
   </p>
 </div>
 
